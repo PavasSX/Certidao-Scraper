@@ -3,10 +3,15 @@
 Certidão Scraper é um bot automatizado que acessa sites oficiais de emissão de certidões criminais para processos seletivos e relacionados, preenche os formulários com os dados fornecidos pelo usuário e pronto, o usuário está a um click de baixar a certidão.
 
 🚀 Funcionalidades
+
 Preenchimento automático de formulários.
+
 Uso do Selenium para automação da navegação.
+
 Gerenciamento do ChromeDriver com WebDriver Manager.
+
 Armazenamento temporário de informações em variaveis, poupando tempo do usuário em ter que digitar novamente as informações para tirar outras certidões.
+
 
 🛠 Tecnologias Utilizadas
 
