@@ -11,8 +11,11 @@ Armazenamento temporário de informações em variaveis, poupando tempo do usuá
 🛠 Tecnologias Utilizadas
 
 Python
+
 Selenium
+
 WebDriver Manager
+
 
 📦 Instalação
 
